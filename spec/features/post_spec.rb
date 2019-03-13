@@ -23,6 +23,5 @@ end
     expect(page.current_path).to eq(posts_path)
     expect(page).to have_content('My post title')
     expect(page).to have_content('My post description')
-
   end
 end
