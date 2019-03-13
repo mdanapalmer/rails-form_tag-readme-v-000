@@ -22,3 +22,4 @@ describe 'new post' do
 
   end
 end
+end
